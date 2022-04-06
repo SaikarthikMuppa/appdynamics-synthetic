@@ -1,7 +1,7 @@
 {
   "schedules": [
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName00001",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName2",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName3",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName4",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName5",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName6",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName7",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName8",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName9",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "appKey": "SM-AFA-HKP",
+      "appKey": "SM-AFC-EXA",
       "description": "jobName10",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
