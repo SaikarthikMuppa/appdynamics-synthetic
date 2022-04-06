@@ -1,0 +1,164 @@
+{
+  "schedules": [
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName1",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName2",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName3",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName4",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName5",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName6",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName7",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName8",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName9",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    },
+    {
+      "appKey": "SM-AFA-HKP",
+      "description": "jobName10",
+      "type": "ALL_BROWSERS",
+      "url": "https://google.com/",
+      "script": null,
+      "locationCodes": [
+        "<LOC>"
+      ],
+      "browserCodes": [
+        "Chrome"
+      ],
+      "chromeVersions": [
+        "86"
+      ]
+    }
+  ]
+}
