@@ -2,7 +2,7 @@
   "schedules": [
     {
       "appKey": "SM-AFA-HKP",
-      "description": "jobName01",
+      "description": "jobName001",
       "type": "ALL_BROWSERS",
       "url": "https://google.com/",
       "script": null,
